@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+.gitigore
 
 ### Eclipse ###
 .apt_generated
@@ -22,9 +23,13 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+.gitigore
 
 ### VS Code ###
 .vscode/
+.idea/
+Hello Java.iml
+.gitigore
 
 ### Mac OS ###
 .DS_Store
