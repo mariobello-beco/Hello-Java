@@ -14,7 +14,7 @@ En Java, una **variable** es un espacio de memoria donde se almacena un dato cuy
 - No contener espacios en blanco.
 - No usar palabras reservadas: como int, class, public.
 
-Buenas practicas.
+Buenas prácticas
 ```Java
 
 int userAge;
@@ -24,7 +24,7 @@ boolean isActive;
 int counter;
 
 ```
-Malas practicas.
+Malas prácticas
 ```Java
 
 int UserAge;          
@@ -149,7 +149,8 @@ enum Day {
 
 ```
 
-> Es importante tener en cuenta que los tipos de datos primitivos son pasados por valor y los tipos de datos de referencia son pasados por referencia, es decir, cuando se pasa un objeto a un método, se está pasando una referencia al objeto en lugar de una copia del objeto.
+> En Java, los tipos de datos primitivos se pasan por valor.  
+> Los objetos se pasan por valor de la referencia, lo que significa que se copia la referencia al objeto, no el objeto en sí.
 
 # Como usar variables en Java
 - `Asignar valores: `Una vez definida una variable, se puede asignar un valor a ella usando el signo igual (=).
@@ -160,7 +161,7 @@ String name= "Java";
 - `Utilizar valores:` Una vez asignado un valor a una variable, se puede usar ese valor en una expresión o en una sentencia.
  ```Java
 String name ="Java";
-sistem.out.println(name) 
+System.out.println(name) 
 ```
 - `Modificar valores:` Una vez asignado un valor a una variable, se puede modificar ese valor en cualquier momento, utilizando operadores aritméticos o asignando un nuevo valor.
 ```Java
@@ -219,7 +220,7 @@ public class Instancia {
     String nombre; // variable de instancia
 
     public static void main(String[] args) {
-        Persona p = new Persona();
+        Instancia p = new Instancia();
         p.nombre = "Mario";
         System.out.println(p.nombre);
     }
@@ -405,9 +406,8 @@ Aunque se visualiza en la consola, se trata de un flujo diferente al de salida e
     }
 ```
 ```Text
-public static void main(String[] args) {
-    System.err.println("Error: dato incorrecto");
-}
+Error: dato incorrecto
+
 ```
 ## Entrada de datos en Java
 
