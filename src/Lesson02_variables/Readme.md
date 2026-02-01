@@ -595,3 +595,11 @@ Modifica el programa para que:
 - La edad se introduzca por teclado
 - Si eres programador se introduzca por teclado
 - Vuelve a mostrar todos los datos por consola.
+
+**Enlaces lección**
+
+[Fichero Java Variables](src/Lesson02_variables/Variables.java)
+
+[Fichero Java Tipo datos](src/Lesson02_variables/TiposDatos.java)
+
+[Ejercicios Variables](src/Lesson02_variables/Exercise.java)
