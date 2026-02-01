@@ -596,7 +596,7 @@ Modifica el programa para que:
 - Si eres programador se introduzca por teclado
 - Vuelve a mostrar todos los datos por consola.
 
-**Enlaces lección**
+# Enlaces lección
 
 [Fichero Java Variables](src/Lesson02_variables/Variables.java)
 
