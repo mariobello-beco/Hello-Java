@@ -598,8 +598,8 @@ Modifica el programa para que:
 
 # Enlaces lección
 
-[Fichero Java Variables](src/Lesson02_variables/Variables.java)
+[Fichero Java Variables](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_variables/Variables.java)
 
-[Fichero Java Tipo datos](src/Lesson02_variables/TiposDatos.java)
+[Fichero Java Tipo datos](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_variables/TiposDatos.java)
 
-[Ejercicios Variables](src/Lesson02_variables/Exercise.java)
+[Ejercicios Variables](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_variables/Exercise.java)
