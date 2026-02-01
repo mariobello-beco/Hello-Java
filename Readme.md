@@ -1,6 +1,6 @@
 # Java
 
-# Variables en Java
+
 
 <p align="center">
   <img 
@@ -11,8 +11,6 @@
   <e>Curso Java desde O</em>
 </p>
 
-
-En Java, una **variable** es un espacio de memoria donde se almacena un dato...
 
 
 
