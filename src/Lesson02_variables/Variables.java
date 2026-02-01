@@ -42,7 +42,7 @@ public class Variables {
         System.out.println(total);// 1
         System.out.println(obj.value); // Variable de instancia
 
-        // Concatenación correcta y clara
+        // Concatenación
         System.out.println("Números: " + number0 + ", " + number1 + ", " + number2); // Números: 0, 1, 2
     }
 }

@@ -557,3 +557,41 @@ Errores mas comunes:
 - Confundir variables con constantes,
 - Intentar cambiar el tipo de una variable,
 
+# Ejercicio Variables
+
+`1. Variables`
+
+Crea las siguientes variables:
+
+- Una variable con tu nombre
+- Una variable con tu edad
+- Una variable que indique si eres o no programador
+- Usa el tipo de dato más adecuado para cada caso.
+
+`2. Constante`
+
+Crea una constante que almacene el lenguaje de programación que estás aprendiendo.
+
+`3. Variable con var`
+
+Crea una variable usando la palabra clave var que almacene un mensaje inicial.
+Después, cambia el valor de esa variable por otro mensaje de despedida.
+
+`4. Mostrar por consola`
+
+Muestra por consola:
+
+- El nombre
+- La edad
+- Si eres programador
+- El lenguaje que estás aprendiendo
+- El valor inicial y final de la variable creada con var
+
+`5. Entrada por consola`
+
+Modifica el programa para que:
+
+- El nombre se introduzca por teclado
+- La edad se introduzca por teclado
+- Si eres programador se introduzca por teclado
+- Vuelve a mostrar todos los datos por consola.
