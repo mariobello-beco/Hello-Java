@@ -1,6 +1,14 @@
 
 # Variables en Java
 
+<p align="center">
+  <img 
+    src="../../img/Curso_Java_Variables.png" 
+    width="700" 
+    alt="Introducción a las variables en Java">
+  <br>
+  <em>Introducción a las variables en Java</em>
+</p>
 
 En Java, una **variable** es un espacio de memoria donde se almacena un dato cuyo valor puede cambiar durante la ejecución del programa.
 

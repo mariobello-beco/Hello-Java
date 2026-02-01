@@ -56,6 +56,7 @@ public class Exercise {
         System.out.println("Programador: " + isProgrammer);
         System.out.println("Lenguaje: " + LANGUAGE);
 
+          
 
         sc.close();
     }
