@@ -8,8 +8,8 @@ public class Exercise {
         // =========================
         // 1. VARIABLES
         // =========================
-        String name = "Mario";      
-        int age = 30;               
+        String name = "";      
+        int age = 1;               
         boolean isProgrammer = true; 
 
         // =========================
