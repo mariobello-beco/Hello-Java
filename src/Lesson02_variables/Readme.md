@@ -7,7 +7,7 @@
     width="900" 
     alt="Variables en Java">
   <br>
-  <em>Curso Java desde O</em>
+  <em>Curso Java desde 0</em>
 </p>
 
 En Java, una **variable** es un espacio de memoria donde se almacena un dato cuyo valor puede cambiar durante la ejecución del programa.

@@ -5,7 +5,7 @@
     width="900" 
     alt="Operadores en Java">
   <br>
-  <em>Curso Java desde O</em>
+  <em>Curso Java desde 0</em>
 </p>
 
 Los `operadores` en Java permiten realizar operaciones sobre variables y valores, como cálculos matemáticos, comparaciones o decisiones lógicas.
