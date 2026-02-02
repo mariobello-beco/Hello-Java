@@ -5,14 +5,10 @@
 <p align="center">
   <img 
     src="./img/Curso_Java.png" 
-    width="800" 
+    width="900" 
     alt="Introducción a las variables en Java">
   <br>
-  <e>Curso Java desde O</em>
+  <em>Curso Java desde O</em>
 </p>
 
 
-
-
-
-## Introducción de Java

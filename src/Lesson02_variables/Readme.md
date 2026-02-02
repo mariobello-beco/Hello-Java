@@ -3,11 +3,11 @@
 
 <p align="center">
   <img 
-    src="../../img/Curso_Java_Variables.png" 
-    width="700" 
-    alt="Introducción a las variables en Java">
+    src="../../img/Variables_Java.png" 
+    width="900" 
+    alt="Variables en Java">
   <br>
-  <em>Introducción a las variables en Java</em>
+  <em>Curso Java desde O</em>
 </p>
 
 En Java, una **variable** es un espacio de memoria donde se almacena un dato cuyo valor puede cambiar durante la ejecución del programa.
@@ -565,9 +565,9 @@ Errores mas comunes:
 - Confundir variables con constantes,
 - Intentar cambiar el tipo de una variable,
 
-# Ejercicio Variables
+# Ejercicio variables en Java
 
-`1. Variables`
+## Variables
 
 Crea las siguientes variables:
 
@@ -576,16 +576,16 @@ Crea las siguientes variables:
 - Una variable que indique si eres o no programador
 - Usa el tipo de dato más adecuado para cada caso.
 
-`2. Constante`
+## Constante
 
 Crea una constante que almacene el lenguaje de programación que estás aprendiendo.
 
-`3. Variable con var`
+## Variable con var
 
 Crea una variable usando la palabra clave var que almacene un mensaje inicial.
 Después, cambia el valor de esa variable por otro mensaje de despedida.
 
-`4. Mostrar por consola`
+## Mostrar por consola
 
 Muestra por consola:
 
@@ -595,7 +595,7 @@ Muestra por consola:
 - El lenguaje que estás aprendiendo
 - El valor inicial y final de la variable creada con var
 
-`5. Entrada por consola`
+## Entrada por consola
 
 Modifica el programa para que:
 
@@ -606,8 +606,8 @@ Modifica el programa para que:
 
 # Enlaces lección
 
-[Fichero Java Variables](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_variables/Variables.java)
+[Fichero Java Variables](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_Variables/Variables.java)
 
-[Fichero Java Tipo datos](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_variables/TiposDatos.java)
+[Fichero Java Tipo datos](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_Variables/TiposDatos.java)
 
 [Ejercicios Variables](https://github.com/mariobello-beco/Hello-Java/blob/main/src/Lesson02_variables/Exercise.java)

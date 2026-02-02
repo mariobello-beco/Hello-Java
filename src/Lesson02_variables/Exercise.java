@@ -1,4 +1,4 @@
-package Lesson02_variables;
+package Lesson02_Variables;
 
 import java.util.Scanner;
 

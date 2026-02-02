@@ -1,4 +1,4 @@
-package lesson01_hello_java;
+package lesson01_Hello_java;
 
 public class HelloJava {
     static void main(String[] args) {
